@@ -1,6 +1,9 @@
 ###
 https://rafalw3bcraft.github.io/tester/
 ###
+###
+https://search.google.com/search-console/remove-outdated-content
+###
 # 🧰 Toolchain
 
 A simple reference to various platforms and services used for AI, blockchain, cloud, DevOps, and data science workflows.
