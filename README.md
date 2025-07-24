@@ -121,6 +121,3 @@ This README is for educational and operational reference. Each tool belongs to i
 
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rafalw3bcraft/project-test@github)](https://gitads.dev/v1/ad-track?source=rafalw3bcraft/project-test@github)
-
-
-<!-- GitAds-Verify: RX1JOBPUVNTW8G6W8J7VCD34RDVHPLQ5 -->
