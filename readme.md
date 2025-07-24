@@ -117,5 +117,10 @@ A simple reference to various platforms and services used for AI, blockchain, cl
 
 This README is for educational and operational reference. Each tool belongs to its respective company and follows its own terms of service.
 
-```
+
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rafalw3bcraft/project-test@github)](https://gitads.dev/v1/ad-track?source=rafalw3bcraft/project-test@github)
+
+
 <!-- GitAds-Verify: RX1JOBPUVNTW8G6W8J7VCD34RDVHPLQ5 -->
