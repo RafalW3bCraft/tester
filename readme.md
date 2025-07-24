@@ -118,3 +118,4 @@ A simple reference to various platforms and services used for AI, blockchain, cl
 This README is for educational and operational reference. Each tool belongs to its respective company and follows its own terms of service.
 
 ```
+<!-- GitAds-Verify: RX1JOBPUVNTW8G6W8J7VCD34RDVHPLQ5 -->
